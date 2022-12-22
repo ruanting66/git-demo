@@ -15,3 +15,4 @@ hello ruanting! hello git!
 hello ruanting! hello git!
 hello ruanting! hello git!
 hello ruanting! hello git! master test
+hello ruanting! hello git! hot-fix test
